@@ -83,6 +83,5 @@ Regional Efficiency: Bangalore dominance suggests metro focus, cutting rural ove
 Trend Forecasting: Monthly peaks (e.g., Mar 57k units) guide promo timing, reducing stockouts.  
 Cost Optimization: UPI/Cash insights streamline payment fees, saving 5-10% on transactions.
 
-## 6. Screenshots / Demos
-**Dashboard Preview**  
-[https://github.com/PawanKumar7264/Mobile-Sales-Interactive-Dashboard/blob/main/Sales%20Dashboard%20Snapshort.png]
+## 6. Screenshots / Demos  
+![Dashboard Preview](https://github.com/PawanKumar7264/Mobile-Sales-Interactive-Dashboard/blob/main/Sales%20Dashboard%20Snapshort.png)
