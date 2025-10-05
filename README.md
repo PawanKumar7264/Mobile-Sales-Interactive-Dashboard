@@ -85,4 +85,4 @@ Cost Optimization: UPI/Cash insights streamline payment fees, saving 5-10% on tr
 
 ## 6. Screenshots / Demos
 **Dashboard Preview**  
-[Static PNG preview of the full Excel dashboard showing title, ratings, totals, brand donuts, payment pie, state map, city dropdown, and monthly line chart as extracted from the provided image.]
+[https://github.com/PawanKumar7264/Mobile-Sales-Interactive-Dashboard/blob/main/Sales%20Dashboard%20Snapshort.png]
